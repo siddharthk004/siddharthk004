@@ -2,7 +2,6 @@
 
 <h3 align="center">A Software developer from India</h3>
 
-
 - 🌱 I’m currently learning **Spring Framework.**
  
 - 📫 How to reach me **siddharthkardile5@gmail.com**
