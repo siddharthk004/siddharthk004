@@ -2,10 +2,6 @@
 <p align="center">
   <img src="Blue and White Illustrative Marketing YouTube Thumbnail.png" alt="Siddharth Kardile Banner" />
 </p>
-
-
-
-
 <h1 align="center">Hi 👋, I'm Siddharth Kardile</h1>
 
 <h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
