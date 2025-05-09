@@ -1,19 +1,12 @@
-
-
-
-
 <p align="center">
   <img src="Blue and White Illustrative Marketing YouTube Thumbnail.png" alt="Siddharth Kardile Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Siddharth Kardile</h1>
-
 <h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
-
 ---
 🌱 Currently diving deep into the **Spring Boot Framework**  
 📫 Reach me at: **siddharthkardile5@gmail.com**
 ---
-
 ### 🧑‍💻 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/siddharth-kardile-3a2978267/" target="_blank">
@@ -24,7 +17,6 @@
   </a>
 </p>
 ---
-
 ### 🛠️ Languages & Tools I Use
 <p align="left">
   <!-- Programming Languages -->
@@ -88,15 +80,11 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/>
   </a>
 </p>
-
 ---
-
-
 ### 🚀 Goals
 - Master backend development with **Spring Boot & Microservices**
 - Learn frontend frameworks like **React.js**
 - Contribute to open source and build scalable full stack applications
-
 ---
 <p align="center">
   <!-- Profile Views -->
@@ -114,8 +102,6 @@
   <!-- GitHub Gists -->
   <img src="https://img.shields.io/badge/Gists-Available-informational?style=flat&logo=github" alt="GitHub Gists" />
 </p>
-
-
 <p align="center">
   <img src="https://github.com/siddharthk004/siddharthk004/blob/main/Screenshot%202025-04-09%20192019.png?raw=true" 
        alt="Screenshot"
