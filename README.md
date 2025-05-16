@@ -5,10 +5,6 @@
 <h1 align="center">Hi 👋, I'm Siddharth Kardile</h1>
 <h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
 
-
-
-
-
 ---
 🌱 Currently diving deep into the **Spring Boot Framework**  
 📫 Reach me at: **siddharthkardile5@gmail.com**
