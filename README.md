@@ -1,6 +1,4 @@
 
-
-
 <p align="center">
   <img src="Blue and White Illustrative Marketing YouTube Thumbnail.png" alt="Siddharth Kardile Banner" />
 </p>
