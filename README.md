@@ -3,21 +3,26 @@
 </p>
 <h1 align="center">Hi 👋, I'm Siddharth Kardile</h1>
 <h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
+
 ---
 🌱 Currently diving deep into the **Spring Boot Framework**  
 📫 Reach me at: **siddharthkardile5@gmail.com**
 ---
+
 ### 🧑‍💻 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/siddharth-kardile-3a2978267/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  
   <a href="https://leetcode.com/u/siddharthk004/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
+
 ---
 ### 🛠️ Languages & Tools I Use
+
 <p align="left">
   <!-- Programming Languages -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -80,11 +85,14 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/>
   </a>
 </p>
+
 ---
+
 ### 🚀 Goals
 - Master backend development with **Spring Boot & Microservices**
 - Learn frontend frameworks like **React.js**
 - Contribute to open source and build scalable full stack applications
+
 ---
 <p align="center">
   <!-- Profile Views -->
