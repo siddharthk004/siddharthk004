@@ -29,24 +29,24 @@
 <!-- <p align="left"> -->
   <p align="center">
   <!-- Programming Languages -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin: 0 10px;"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <!-- </a> -->
+  <!-- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin: 0 10px;"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <!-- </a> -->
+  <!-- <a href="https://www.java.com" target="_blank" rel="noreferrer"> -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin: 0 10px;"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <!-- </a> -->
+  <!-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 0 10px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <!-- </a> -->
+  <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 0 10px;"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <!-- </a> -->
+  <!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin: 0 10px;"/>
-  </a>
+  <!-- </a> -->
 
   <!-- Frameworks & Libraries -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
