@@ -24,9 +24,9 @@
 </p>
 
 ---
-### 🛠️ Languages & Tools I Use
+ <!-- ### 🛠️ Languages & Tools I Use
 
-<!-- <p align="left"> -->
+ <p align="left"> 
   <p align="center">
   <!-- Programming Languages -->
   <!-- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> -->
@@ -46,9 +46,9 @@
   <!-- </a> -->
   <!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin: 0 10px;"/>
-  <!-- </a> -->
+  <!-- </a> 
 
-  <!-- Frameworks & Libraries -->
+  
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin: 0 10px;"/>
   </a>
@@ -59,7 +59,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" style="margin: 0 10px;"/>
   </a>
 
-  <!-- Web Development -->
+  
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" style="margin: 0 10px;"/>
   </a>
@@ -67,7 +67,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" style="margin: 0 10px;"/>
   </a>
 
-  <!-- Tools -->
+  <!-- Tools
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin: 0 10px;"/>
   </a>
@@ -81,14 +81,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin: 0 10px;"/>
   </a>
 
-  <!-- Socials -->
+  <!-- Socials 
   <a href="https://www.linkedin.com/in/siddharth-kardile-3a2978267/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 10px;"/>
   </a>
   <a href="https://leetcode.com/u/siddharthk004/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40" style="margin: 0 10px;"/>
   </a>
-</p>
+</p> -->
 
 ---
 
